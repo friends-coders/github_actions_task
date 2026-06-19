@@ -1,4 +1,4 @@
-// A simple function to test
+// A simple function to test +1
 function calculateDiscount(price, discount) {
     if (price < 0 || discount < 0) {
         return 0;
